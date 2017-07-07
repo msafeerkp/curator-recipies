@@ -28,7 +28,7 @@
 					<archive>
 						<manifest>
 							<addClasspath>true</addClasspath>
-							<mainClass>org.learning.curator.recipies.leader.ConsoleMain</mainClass>
+							<mainClass>org.learning.curator.recipies.lock.ConsoleMain</mainClass>
 						</manifest>
 					</archive>
 					<descriptorRefs>
